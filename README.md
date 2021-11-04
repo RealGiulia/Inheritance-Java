@@ -12,3 +12,4 @@
  
  
  ## O diagrama de classes do programa:
+![image](https://user-images.githubusercontent.com/84285314/140253882-0896a75d-2ffa-4f55-ad25-a82e793f68ce.png)
