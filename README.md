@@ -1,4 +1,4 @@
-# Inheritance-Java
+# inheritance-java
 
 ## Informações:
   Nesse programa, classificamos os produtos em 3 tipos(usado, importado e produto). Cada tipo de produto terá um preço de etiqueta único, já que os preços serão alterados por taxas e descontos.
